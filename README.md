@@ -93,7 +93,7 @@ They include:
 1. Clone this repo.  
 2. Use the SQL queries [`/Querries`](`./Querries`) to reproduce results.  
 3. Open Tableau workbook [`/Dashboards`](`./Dashboards`) to explore interactive dashboards.  
-4. Refer to exported CSVs [`/CSV_for_charts`](`./CSV_for_charts`) if you want to build visualizations in Power BI or Python.  
+4. Refer to exported CSVs [`/CSV_for_Charts`](`./CSV_for_charts`) if you want to build visualizations in Power BI or Python.  
 
 ---
 
