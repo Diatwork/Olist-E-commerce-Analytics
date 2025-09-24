@@ -68,14 +68,14 @@ All interactive dashboards are available in the [`/Dashboards`](./Dashboards) fo
 They include:  
 
 1. **Orders & Delivery Performance Dashboard**
-  ![Dashboard 1](screenshots/dashboard_orders.png)
+  ![Dashboard 1](https://github.com/Diatwork/Olist-E-commerce-Analytics/blob/main/Dashboards/dashboard_1.png)
    - Order status breakdown  
    - Average delivery time  
    - On-time vs. late deliveries  
    - Delivery performance by state  
 
 3. **Revenue & Product Insights Dashboard**
-    ![Dashboard 2](screenshots/dashboard_revenue.png)
+    ![Dashboard 2](https://github.com/Diatwork/Olist-E-commerce-Analytics/blob/main/Dashboards/Dashboard_2.png)
    - Average Order Value (AOV)  
    - Revenue by customer state  
    - Product categories with high cancellations/returns  
