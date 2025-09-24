@@ -67,13 +67,15 @@ The goal is to answer **key business questions** and create **interactive dashbo
 All interactive dashboards are available in the [`/Dashboards`](./Dashboards) folder.  
 They include:  
 
-1. **Orders & Delivery Performance Dashboard**  
+1. **Orders & Delivery Performance Dashboard**
+  ![Dashboard 1](screenshots/dashboard_orders.png)
    - Order status breakdown  
    - Average delivery time  
    - On-time vs. late deliveries  
    - Delivery performance by state  
 
-2. **Revenue & Product Insights Dashboard**  
+3. **Revenue & Product Insights Dashboard**
+    ![Dashboard 2](screenshots/dashboard_revenue.png)
    - Average Order Value (AOV)  
    - Revenue by customer state  
    - Product categories with high cancellations/returns  
@@ -89,9 +91,9 @@ They include:
 ---
 ## 🚀 How to Use
 1. Clone this repo.  
-2. Use the SQL queries (`/Querries`) to reproduce results.  
-3. Open Tableau workbook (`/Dashboards`) to explore interactive dashboards.  
-4. Refer to exported CSVs (`/CSV_for_charts`) if you want to build visualizations in Power BI or Python.  
+2. Use the SQL queries [`/Querries`](`./Querries`) to reproduce results.  
+3. Open Tableau workbook [`/Dashboards`](`./Dashboards`) to explore interactive dashboards.  
+4. Refer to exported CSVs [`/CSV_for_charts`](`./CSV_for_charts`) if you want to build visualizations in Power BI or Python.  
 
 ---
 
