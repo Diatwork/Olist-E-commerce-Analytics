@@ -87,6 +87,13 @@ They include:
 - Built **business-oriented dashboards** for decision-making.  
 
 ---
+## 🚀 How to Use
+1. Clone this repo.  
+2. Use the SQL queries (`/Querries`) to reproduce results.  
+3. Open Tableau workbook (`/Dashboards`) to explore interactive dashboards.  
+4. Refer to exported CSVs (`/CSV_for_charts`) if you want to build visualizations in Power BI or Python.  
+
+---
 
 ## 📌 Next Steps
 - Predict late deliveries using ML models.  
